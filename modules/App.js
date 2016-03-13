@@ -11,6 +11,7 @@ export default React.createClass({
     		<li><Link to="/about">About</Link></li>
     		<li><Link to="/repos">Repos</Link></li>
     		<li><Link to="/tutorial">Tutorials</Link></li>
+            <li><Link to="/product">Products</Link></li>
     	</ul>
     	</div>
     )
